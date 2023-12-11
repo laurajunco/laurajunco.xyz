@@ -1,0 +1,255 @@
+:root {
+  --black: black;
+  --subdued: #a3a3a3;
+  --blue: blue;
+  --red: #ff4b00;
+}
+
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+@font-face {
+  font-family: "PT Serif";
+  src: url(./assets/PTSerif-Regular.ttf);
+}
+
+@font-face {
+  font-family: "PT Serif";
+  font-style: italic;
+  src: url(./assets/PTSerif-Italic.ttf);
+}
+
+html,
+body,
+div,
+span,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+em,
+img,
+strike,
+strong,
+ol,
+ul,
+li,
+article,
+aside,
+figure,
+footer,
+header,
+menu,
+nav,
+section,
+summary,
+video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+
+article,
+aside,
+details,
+figure,
+footer,
+header,
+menu,
+nav,
+section {
+  display: block;
+}
+
+ol,
+ul {
+  list-style: none;
+}
+
+img,
+iframe {
+  vertical-align: bottom;
+  max-width: 100%;
+}
+
+body {
+  font-family: "Arial", "Helvetica", "sans-serif";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 12px;
+  text-transform: uppercase;
+  text-decoration: none;
+  line-height: 1;
+
+  max-width: 1100px;
+  padding: 20px 20px;
+  margin: 0px auto;
+
+  color: var(--black);
+  letter-spacing: 2px;
+}
+
+a {
+  text-decoration: none;
+  color: var(--black);
+}
+
+em {
+  font-style: italic;
+}
+
+nav > menu > li {
+  display: inline-block;
+  line-height: 1.6em;
+}
+
+h1 {
+  text-align: center;
+  line-height: 4.8em;
+  letter-spacing: 2.5px;
+}
+
+main {
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+.margin-top {
+  margin-top: 50px;
+}
+
+.hidden {
+  display: none;
+}
+
+.main-nav a:hover,
+h1 a:hover {
+  color: var(--red);
+}
+
+.main-nav a.active {
+  color: var(--blue);
+}
+
+.main-nav {
+  text-align: center;
+}
+
+.main-nav > menu > li {
+  margin-left: 25px;
+  margin-right: 25px;
+}
+
+.work-nav,
+.work-nav a {
+  color: var(--subdued);
+}
+
+.work-nav a {
+  cursor: pointer;
+}
+
+.work-nav a.active {
+  text-decoration: underline;
+}
+
+.work-nav > menu > li {
+  display: inline-block;
+  line-height: 2.6em;
+  font-style: italic;
+}
+
+section.work {
+  margin: 0px auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  column-gap: 30px;
+  row-gap: 50px;
+}
+
+.work > a {
+  text-align: center;
+}
+
+.project p {
+  margin-top: 10px;
+  text-transform: uppercase;
+  text-align: center;
+  color: var(--black);
+  font-style: italic;
+  line-height: 1.4;
+}
+
+.project-page {
+  text-align: center;
+}
+
+.project-page .description {
+  white-space: pre-wrap;
+  font-family: "PT Serif", serif;
+  letter-spacing: normal;
+  text-transform: none;
+  font-size: 25px;
+
+  font-weight: 400;
+  font-style: normal;
+  line-height: 1.4em;
+}
+
+.project-page a {
+  color: var(--blue);
+}
+
+.project-page a:hover {
+  color: var(--red);
+}
+
+.project-page figcaption {
+  line-height: 2em;
+  color: var(--subdued);
+  letter-spacing: 1px;
+  font-style: italic;
+}
+
+h2 {
+  line-height: 1.4em;
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  color: var(--subdued);
+  margin: 1em 0 0.3em;
+}
+
+.cv-page {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 500px;
+}
+
+.cv-page p {
+  line-height: 2em;
+  text-transform: none;
+  letter-spacing: 1px;
+  margin: 1em 0 0.3em;
+}
+
+.cv-page a {
+  color: blue;
+  letter-spacing: 1px;
+}
+
+.cv-page a:hover {
+  color: var(--red);
+}

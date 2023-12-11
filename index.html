@@ -1,15 +1,153 @@
-<html lang="es">
+<!DOCTYPE html>
+<html lang="en">
   <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Laura Junco | laurajunco.github.io</title>
-    <link rel="stylesheet" href="/assets/css/style.css?v=ad953ddd92c4c0185a029b5a5bf7f07ecef70679">
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <link rel="icon" type="image/png" href="assets/icon.png" />
+    <script src="main.js" defer></script>
+
+    <title>Laura Junco</title>
   </head>
   <body>
-    <div class="container-lg px-3 my-5 markdown-body">
-      <h1>Laura Junco</h1>
-      <p>Hola amigos esto está en construcción ♡(◡‿◡✿)</p>
-    </div>
+    <header>
+      <h1><a href="/">Laura Junco</a></h1>
+
+      <nav class="main-nav">
+        <menu>
+          <li><a class="active" href="/">Work</a></li>
+          <li><a href="/about">About</a></li>
+          <li><a href="/cv">CV</a></li>
+        </menu>
+      </nav>
+    </header>
+
+    <main>
+      <nav class="work-nav">
+        <menu>
+          See:
+          <li><a class="active">All</a></li>
+          |
+          <li><a data-link="viz">Data vizualization</a></li>
+          |
+          <li><a data-link="web">Web</a></li>
+          |
+          <li><a data-link="tech">Creative technology</a></li>
+        </menu>
+      </nav>
+
+      <section class="work">
+        <a
+          class="project"
+          data-category="viz"
+          href="./songs-from-a-recent-past/"
+        >
+          <img
+            src="./assets/songs-from-a-recent-past.gif"
+            alt="Sounds of the recent past"
+          />
+          <p>Sounds of the recent past</p>
+        </a>
+
+        <a class="project" data-category="viz" href="./celonis/">
+          <img src="./assets/celonis.jpg" alt="Celonis" />
+          <p>Celonis</p>
+        </a>
+        <a class="project" data-category="viz" href="./comision-de-la-verdad/">
+          <img
+            src="./assets/comision-de-la-verdad.gif"
+            alt="Comisión de la verdad"
+          />
+          <p>Comisión de la verdad</p>
+        </a>
+
+        <a class="project" data-category="viz" href="./caminando-la-memoria/">
+          <img
+            src="./assets/caminando-la-memoria.jpg"
+            alt="Caminando la memoria"
+          />
+          <p>Caminando la memoria</p>
+        </a>
+
+        <a class="project" data-category="web" href="./aqui-vive-gente/">
+          <img src="./assets/aqui-vive-gente.gif" alt="Aqui vive gente" />
+          <p>Aquí vive gente</p>
+        </a>
+
+        <a class="project" data-category="web" href="./nowhere-archive/">
+          <img src="./assets/nowhere-archive.jpg" alt="The Nowhere Archive" />
+          <p>The Nowhere Archive</p>
+        </a>
+
+        <a
+          class="project"
+          data-category="web"
+          href="./digital-archive-of-testimonial-textiles/"
+        >
+          <img
+            src="./assets/digital-archive-of-testimonial-textiles.gif"
+            alt="Digital Archive of Testimonial Textiles"
+          />
+          <p>Digital Archive of Testimonial Textiles</p>
+        </a>
+
+        <a class="project" data-category="tech" href="./times-to-listen/">
+          <img src="./assets/times-to-listen.jpg" alt="Time(s) to Listen" />
+          <p>Time(s) to Listen</p>
+        </a>
+        <a class="project" data-category="web" href="./voices-of-memory/">
+          <img src="./assets/voices-of-memory.gif" alt="Voices of Memory" />
+          <p>Beatriz González: Voices of Memory</p>
+        </a>
+
+        <a
+          class="project"
+          data-category="tech"
+          href="./technologies-for-Introspection/"
+        >
+          <img
+            src="assets/technologies-for-Introspection.jpg"
+            alt="Technologies for Introspection"
+          />
+          <p>Technologies for Introspection</p>
+        </a>
+
+        <a class="project" data-category="viz" href="./chembl/">
+          <img src="./assets/chembl.gif" alt="ChEMBL" />
+          <p>ChEMBL</p>
+        </a>
+
+        <a class="project" data-category="tech" href="./invisible-interfaces/">
+          <img
+            src="./assets/invisible-interfaces.jpg"
+            alt="Invisible Interfaces"
+          />
+          <p>Invisible Interfaces</p>
+        </a>
+
+        <a class="project" data-category="viz" href="./ukpact/">
+          <img src="./assets/ukpact.jpg" alt="UK PACT" />
+          <p>UK PACT</p>
+        </a>
+
+        <a class="project" data-category="tech" href="./ventanas-de-encuentro/">
+          <img src="./assets/ventanas.jpg" alt="Ventanas de Encuentro" />
+          <p>Ventanas de Encuentro</p>
+        </a>
+
+        <a
+          class="project"
+          data-category="web"
+          href="./museum-of-memory-of-colombia/"
+        >
+          <img
+            src="./assets/museum-of-memory.jpg"
+            alt="Museum of Memory of Colombia"
+          />
+          <p>Museum of Memory of Colombia</p>
+        </a>
+      </section>
+    </main>
   </body>
 </html>
