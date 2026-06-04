@@ -70,7 +70,7 @@ body {
   font-family: "Arial", "Helvetica", "sans-serif";
   font-weight: normal;
   font-style: normal;
-  font-size: 13px;
+  font-size: 16px;
   text-transform: uppercase;
   text-decoration: none;
   line-height: 1;
@@ -183,18 +183,20 @@ section.work {
   font-family: "PT Serif", serif;
   letter-spacing: normal;
   text-transform: none;
-  font-size: 25px;
+  font-size: 1.5em;
 
   font-weight: 400;
   font-style: normal;
   line-height: 1.4em;
 }
 
-.project-page a {
+.project-page a,
+.post-page a {
   color: var(--blue);
 }
 
-.project-page a:hover {
+.project-page a:hover,
+.post-page a:hover {
   color: var(--red);
 }
 
@@ -207,7 +209,7 @@ section.work {
 
 h2 {
   line-height: 1.4em;
-  font-size: 13px;
+  font-size: 1em;
   text-transform: uppercase;
   letter-spacing: 2px;
   color: var(--subdued);
@@ -220,7 +222,8 @@ h2 {
   margin-right: auto;
 }
 
-.cv-page {
+.cv-page,
+.blog-page {
   margin-left: auto;
   margin-right: auto;
   max-width: 500px;
@@ -234,7 +237,7 @@ h2 {
 }
 
 .cv-page a {
-  color: blue;
+  color: var(--blue);
   letter-spacing: 1px;
 }
 
@@ -242,10 +245,70 @@ h2 {
   color: var(--red);
 }
 
+/* ---- BLOG ----- */
+.blog-page li {
+  line-height: 1.5em;
+  text-transform: none;
+  letter-spacing: 1px;
+  margin: 1em 0 0.3em;
+}
+
+ul.blog-posts li {
+  display: flex;
+}
+
+ul.blog-posts li span {
+  flex: 0 0 100px;
+}
+
+ul.blog-posts li a {
+  color: var(--blue);
+}
+
+/* --- POST ----- */
+.post-page {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 800px;
+  line-height: 2em;
+  text-transform: none;
+  letter-spacing: normal;
+}
+
+.post-page p {
+  margin-bottom: 0.6em;
+}
+
+.post-page a {
+  margin-bottom: 0.6em;
+}
+
+.post-page h2 {
+  margin: 2em 0 0.3em;
+  font-family: "PT Serif", serif;
+  font-weight: 400;
+  color: var(--black);
+  text-transform: none;
+  font-size: 1.3em;
+  letter-spacing: normal;
+}
+
+.post-page h1 {
+  font-family: "PT Serif", serif;
+  letter-spacing: normal;
+  text-transform: none;
+  font-size: 2em;
+  margin: 0 0 0.3em;
+  font-weight: 400;
+  font-style: normal;
+  line-height: 1.4em;
+  text-align: left;
+}
+
 @media (max-width: 700px) {
   body,
   h2 {
-    font-size: 11px;
+    font-size: 0.8em;
     letter-spacing: 1px;
     text-wrap: wrap;
   }
@@ -260,6 +323,6 @@ h2 {
   }
 
   .project-page .description {
-    font-size: 16px;
+    font-size: 1em;
   }
 }
