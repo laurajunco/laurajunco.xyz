@@ -229,6 +229,10 @@ h2 {
   max-width: 500px;
 }
 
+.blog-page {
+  max-width: 600px;
+}
+
 .cv-page p {
   line-height: 2em;
   text-transform: none;
@@ -263,6 +267,10 @@ ul.blog-posts li span {
 
 ul.blog-posts li a {
   color: var(--blue);
+}
+
+.external {
+  cursor: alias;
 }
 
 /* --- POST ----- */
