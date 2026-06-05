@@ -30,7 +30,7 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.addCollection("work", function (collection) {
     return collection
-      .getFilteredByGlob("work/*.md")
+      .getFilteredByGlob("site/work/*.md")
       .filter((project) => project.fileSlug !== "index")
       .sort((a, b) => a.data.order - b.data.order);
   });
