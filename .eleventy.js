@@ -1,13 +1,11 @@
-const markdownIt = require("markdown-it");
-const md = new markdownIt();
+const md = require("./scripts/markdown");
 
 module.exports = function (eleventyConfig) {
   // site/ is gitignored; assemble creates it as symlinks to template/ + content/
   eleventyConfig.setUseGitIgnore(false);
 
-  eleventyConfig.addNunjucksFilter("markdownify", function (value) {
-    return md.render(value || "");
-  });
+  eleventyConfig.setLibrary("md", md);
+  eleventyConfig.addNunjucksFilter("markdownify", (value) => md.render(value || ""));
 
   eleventyConfig.addNunjucksFilter("dateFilter", function (dateStr) {
     const date = new Date(dateStr);
