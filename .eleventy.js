@@ -15,10 +15,10 @@ module.exports = function (eleventyConfig) {
     return date.toLocaleDateString("en-US", options);
   });
 
-  eleventyConfig.addPassthroughCopy("style.css");
-  eleventyConfig.addPassthroughCopy("assets");
-  eleventyConfig.addPassthroughCopy("CNAME");
-  eleventyConfig.addPassthroughCopy("robots.txt");
+  eleventyConfig.addPassthroughCopy("site/style.css");
+  eleventyConfig.addPassthroughCopy("site/assets");
+  eleventyConfig.addPassthroughCopy("site/CNAME");
+  eleventyConfig.addPassthroughCopy("site/robots.txt");
 
   eleventyConfig.addCollection("work", function (collection) {
     return collection

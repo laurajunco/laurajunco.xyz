@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "assemble": "node scripts/assemble.js",
-    "build": "npm run assemble && eleventy",
+    "build": "node scripts/assemble.js --copy && eleventy",
     "serve": "npm run assemble && eleventy --serve"
   },
   "devDependencies": {
