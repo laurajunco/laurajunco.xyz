@@ -1,7 +1,7 @@
 ---
 title: "Technologies for Introspection"
 order: 10
-image: "assets/technologies-for-Introspection.jpg"
+image: "/assets/technologies-for-Introspection.jpg"
 role: Installation, Interaction Design
 technologies: Electronics, Sensors, Custom Software
 description: |

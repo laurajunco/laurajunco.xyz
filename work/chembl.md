@@ -1,7 +1,7 @@
 ---
 title: "ChEMBL"
 order: 11
-image: "./assets/chembl.gif"
+image: "/assets/chembl.gif"
 role: Front-end development, data visualization, UI design,
 technologies: D3.js, ElasticSearch, Python
 description: |

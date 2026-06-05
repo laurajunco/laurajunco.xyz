@@ -1,7 +1,7 @@
 ---
 title: "Time(s) to Listen"
 order: 8
-image: "./assets/times-to-listen.jpg"
+image: "/assets/times-to-listen.jpg"
 role: Design Research, Web development, Interaction Design,
 technologies: WordPress, HTML, CSS, JavaScript, Arduino
 description: |

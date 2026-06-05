@@ -1,7 +1,7 @@
 ---
 title: "Invisible Interfaces"
 order: 12
-image: "./assets/invisible-interfaces.jpg"
+image: "/assets/invisible-interfaces.jpg"
 role: Workshop teacher
 technologies: Processing, Java
 description: |

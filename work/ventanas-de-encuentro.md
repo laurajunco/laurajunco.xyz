@@ -1,7 +1,7 @@
 ---
 title: "Ventanas de Encuentro"
 order: 14
-image: "./assets/ventanas.jpg"
+image: "/assets/ventanas.jpg"
 role: Interaction Design, Circuit and Electronics Design
 technologies: Arduino, Textiles, Electronics
 description: |

@@ -1,7 +1,7 @@
 ---
 title: "Caminando la memoria"
 order: 4
-image: "./assets/caminando-la-memoria.jpg"
+image: "/assets/caminando-la-memoria.jpg"
 role: Graphic Design, Illustration
 description: |
   This transmedia map illustrates memory initiatives in Colombia related to the armed conflict. The stories are situated on the map and expanded in a 360º video with community narratives.

@@ -1,7 +1,7 @@
 ---
 title: "The Nowhere Archive"
 order: 6
-image: "./assets/nowhere-archive.jpg"
+image: "/assets/nowhere-archive.jpg"
 role: Web development, Interaction design, UI Design
 technologies: HTML, CSS, JavaScript
 description: |

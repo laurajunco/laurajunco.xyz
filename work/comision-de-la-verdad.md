@@ -1,7 +1,7 @@
 ---
 title: "Comisión de la Verdad"
 order: 3
-image: "./assets/comision-de-la-verdad.gif"
+image: "/assets/comision-de-la-verdad.gif"
 role: Data Visualization, Web Development
 technologies: React.js, D3.js, ElasticSearch, R
 description: |

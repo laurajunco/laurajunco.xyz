@@ -1,7 +1,7 @@
 ---
 title: "Celonis"
 order: 2
-image: "./assets/celonis.jpg"
+image: "/assets/celonis.jpg"
 role: Front-end development
 technologies: Angular, D3.js, TypeScript, GraphViz
 description: |

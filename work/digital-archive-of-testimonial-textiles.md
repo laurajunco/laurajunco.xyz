@@ -1,7 +1,7 @@
 ---
 title: "Digital Archive of Testimonial Textiles"
 order: 7
-image: "./assets/digital-archive-of-testimonial-textiles.gif"
+image: "/assets/digital-archive-of-testimonial-textiles.gif"
 role: User interface design, Illustration, Front End Development
 technologies: HTML, CSS, JavaScript
 description: |

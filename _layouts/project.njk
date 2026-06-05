@@ -3,26 +3,24 @@ layout: base.njk
 ---
 
 <section class="project-page">
-  <section>
-    {% if description %}
-      <div class="description">{{ description | markdownify | safe }}</div>
-    {% endif %}
+  {% if description %}
+    <div class="description">{{ description | markdownify | safe }}</div>
+  {% endif %}
 
-    {% if role %}
-      <pre class="role">Role: {{ role }}</pre>
-    {% endif %}
+  {% if role %}
+    <pre class="role">Role: {{ role }}</pre>
+  {% endif %}
 
-    {% if technologies %}
-      <pre class="technologies">Technologies: {{ technologies }}</pre>
-    {% endif %}
+  {% if technologies %}
+    <pre class="technologies">Technologies: {{ technologies }}</pre>
+  {% endif %}
 
-    {% for image in images %}
-      <figure>
-        <img class="margin-top" src="{{ image.src }}" />
-        {% if image.caption %}
-          <figcaption>{{ image.caption }}</figcaption>
-        {% endif %}
-      </figure>
-    {% endfor %}
-  </section>
+  {% for image in images %}
+    <figure>
+      <img class="margin-top" src="{{ image.src }}" />
+      {% if image.caption %}
+        <figcaption>{{ image.caption }}</figcaption>
+      {% endif %}
+    </figure>
+  {% endfor %}
 </section>
