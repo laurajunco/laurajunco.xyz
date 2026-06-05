@@ -176,6 +176,14 @@ section.work {
   word-break: break-word;
 }
 
+.project-page .description p {
+  margin-bottom: 0.6em;
+}
+
+.project-page .description p:last-child {
+  margin-bottom: 0;
+}
+
 .project-page .role,
 .project-page .technologies {
   white-space: pre-wrap;
