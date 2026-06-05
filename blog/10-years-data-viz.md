@@ -1,7 +1,7 @@
 ---
 layout: blog.njk
 navActive: blog
-title: "LAURA JUNCO - 10 years of Data Visualization"
+title: "10 years of Data Visualization"
 date: 2026-06-04
 ---
 
