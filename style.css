@@ -92,8 +92,12 @@ em {
   font-style: italic;
 }
 
-nav > menu > li {
+nav > menu > li,
+.work-nav > menu > li {
   display: inline-block;
+}
+
+nav > menu > li {
   line-height: 1.6em;
 }
 
@@ -148,7 +152,6 @@ h1 a:hover {
 }
 
 .work-nav > menu > li {
-  display: inline-block;
   line-height: 2.6em;
   font-style: italic;
 }
@@ -178,25 +181,32 @@ section.work {
   text-align: center;
 }
 
-.project-page .description {
-  white-space: pre-wrap;
+.project-page .description,
+.post-page h1,
+.post-page h2 {
   font-family: "PT Serif", serif;
   letter-spacing: normal;
   text-transform: none;
-  font-size: 1.5em;
+}
 
+.project-page .description {
+  white-space: pre-wrap;
+  font-size: 1.5em;
   font-weight: 400;
   font-style: normal;
   line-height: 1.4em;
 }
 
 .project-page a,
-.post-page a {
+.post-page a,
+.cv-page a,
+ul.blog-posts li a {
   color: var(--blue);
 }
 
 .project-page a:hover,
-.post-page a:hover {
+.post-page a:hover,
+.cv-page a:hover {
   color: var(--red);
 }
 
@@ -216,7 +226,8 @@ h2 {
   margin: 1em 0 0.3em;
 }
 
-.narrow {
+.narrow,
+.post-page {
   max-width: 800px;
   margin-left: auto;
   margin-right: auto;
@@ -226,6 +237,9 @@ h2 {
 .blog-page {
   margin-left: auto;
   margin-right: auto;
+}
+
+.cv-page {
   max-width: 500px;
 }
 
@@ -233,28 +247,24 @@ h2 {
   max-width: 600px;
 }
 
-.cv-page p {
-  line-height: 2em;
+.cv-page p,
+.blog-page li {
   text-transform: none;
   letter-spacing: 1px;
   margin: 1em 0 0.3em;
 }
 
-.cv-page a {
-  color: var(--blue);
-  letter-spacing: 1px;
+.cv-page p {
+  line-height: 2em;
 }
 
-.cv-page a:hover {
-  color: var(--red);
+.cv-page a {
+  letter-spacing: 1px;
 }
 
 /* ---- BLOG ----- */
 .blog-page li {
   line-height: 1.5em;
-  text-transform: none;
-  letter-spacing: 1px;
-  margin: 1em 0 0.3em;
 }
 
 ul.blog-posts li {
@@ -265,19 +275,12 @@ ul.blog-posts li span {
   flex: 0 0 120px;
 }
 
-ul.blog-posts li a {
-  color: var(--blue);
-}
-
 .external {
   cursor: alias;
 }
 
 /* --- POST ----- */
 .post-page {
-  margin-left: auto;
-  margin-right: auto;
-  max-width: 800px;
   line-height: 2em;
   text-transform: none;
   letter-spacing: normal;
@@ -293,18 +296,12 @@ ul.blog-posts li a {
 
 .post-page h2 {
   margin: 2em 0 0.3em;
-  font-family: "PT Serif", serif;
   font-weight: 400;
   color: var(--black);
-  text-transform: none;
   font-size: 1.3em;
-  letter-spacing: normal;
 }
 
 .post-page h1 {
-  font-family: "PT Serif", serif;
-  letter-spacing: normal;
-  text-transform: none;
   font-size: 2em;
   margin: 0 0 0.3em;
   font-weight: 400;
