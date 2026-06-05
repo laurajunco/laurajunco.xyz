@@ -5,17 +5,19 @@ title: "Blog"
 
 <section class="blog-page">
   <ul class="blog-posts">
-    {% for post in collections.blog %}
-      <li>
-        <span>
-          <i><time>{{ post.date | dateFilter }}</time></i>
-        </span>
-        {% if post.type == "local" %}
-          <a href="{{ post.url }}">{{ post.title }}</a>
-        {% else %}
-          <a class="external" target="_blank" href="{{ post.url }}">{{ post.title }}</a>
-        {% endif %}
-      </li>
+    {% for post in collections.blog | sort(attribute="data.date") | reverse %}
+      {% if post.url != "/blog/" %}
+        <li>
+          <span>
+            <i><time>{{ post.data.date | dateFilter }}</time></i>
+          </span>
+          {% if post.data.externalUrl %}
+            <a class="external" target="_blank" href="{{ post.data.externalUrl }}">{{ post.data.title }}</a>
+          {% else %}
+            <a href="{{ post.url }}">{{ post.data.title }}</a>
+          {% endif %}
+        </li>
+      {% endif %}
     {% endfor %}
   </ul>
 </section>

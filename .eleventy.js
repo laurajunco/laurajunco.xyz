@@ -17,19 +17,6 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("CNAME");
   eleventyConfig.addPassthroughCopy("robots.txt");
 
-  eleventyConfig.addCollection("blog", function (collection) {
-    return collection
-      .getFilteredByGlob("blog/*.md")
-      .filter((post) => post.fileSlug !== "index")
-      .map((post) => ({
-        date: post.data.date,
-        title: post.data.title,
-        type: post.data.externalUrl ? "external" : "local",
-        url: post.data.externalUrl || post.url,
-      }))
-      .sort((a, b) => new Date(b.date) - new Date(a.date));
-  });
-
   eleventyConfig.addCollection("work", function (collection) {
     return collection
       .getFilteredByGlob("work/*.md")
