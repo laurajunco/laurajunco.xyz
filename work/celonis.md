@@ -1,15 +1,14 @@
 ---
 layout: project.njk
 navActive: work
-title: "LAURA JUNCO - Celonis"
+title: "Celonis"
+role: Front-end development
+technologies: Angular, D3.js, TypeScript, GraphViz
 description: |
   As a Visualization Engineer at *[Celonis](https://www.celonis.com/)*, the leading Process Mining company in the world, I work tackling complex and interesting data visualization problems.
-  
+
   Some of them include: maintaining an in-house charting library, creating process and graph visualizations, creating editing tools for data visualization dashboards, accesibility for charts and much more.
-role: |
-  Role: Front-end development
-  
-  Technologies: Angular, D3.js, TypeScript, GraphViz
+
 images:
   - src: "/assets/work/celonis/1.gif"
     caption: "Charts created with in-house library"

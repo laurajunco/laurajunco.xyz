@@ -1,17 +1,16 @@
 ---
 layout: project.njk
 navActive: work
-title: "LAURA JUNCO - ChEMBL"
+title: "ChEMBL"
+role: Front-end development, data visualization, UI design,
+technologies: D3.js, ElasticSearch, Python
 description: |
   *ChEMBL* is a curated database of bioactive molecules with drug-like properties.
-  
+
   Web redesign and reusable data visualizations to help researchers with their computational analyses and communicate their findings clearly and effectively.
-  
+
   Visit the database → [www.ebi.ac.uk/chembl/](https://www.ebi.ac.uk/chembl/)
-role: |
-  Role: Front-end development, data visualization, UI design,
-  
-  Technologies: D3.js, ElasticSearch, Python
+
 images:
   - src: "/assets/work/chembl/2.jpg"
     caption: ""
