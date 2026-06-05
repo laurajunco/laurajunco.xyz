@@ -230,6 +230,10 @@ h2 {
   max-width: 500px;
 }
 
+.cv-page h2:not(:first-child) {
+  margin-top: 50px;
+}
+
 .blog-page {
   max-width: 600px;
 }

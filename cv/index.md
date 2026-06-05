@@ -1,97 +1,40 @@
 ---
-title: "CV"
-templateEngineOverride: njk
 ---
 
-<h2>Current</h2>
+## Current
 
-<p>
-  <a href="https://www.celonis.com/">Celonis</a>, Senior Visualization
-  Engineer
-</p>
+[Celonis](https://www.celonis.com/), Senior Visualization Engineer
 
-<h2 class="margin-top">Previous</h2>
+## Previous
 
-<p>
-  <a href="https://arqdis.uniandes.edu.co/">Universidad de los Andes</a
-  >, Adjunct Professor
-</p>
+[Universidad de los Andes](https://arqdis.uniandes.edu.co/), Adjunct Professor
 
-<p>
-  <a href="https://www.comisiondelaverdad.co/">Comisión de la Verdad</a
-  >, Data Visualization Engineer
-</p>
+[Comisión de la Verdad](https://www.comisiondelaverdad.co/), Data Visualization Engineer
 
-<p>
-  <a
-    href="https://www.artesanaltecnologica.org/remendar-lo-nuevo-mending-the-new/"
-    >Universidad Nacional de Colombia</a
-  >, Design Research Assistant
-</p>
+[Universidad Nacional de Colombia](https://www.artesanaltecnologica.org/remendar-lo-nuevo-mending-the-new/), Design Research Assistant
 
-<p>
-  <a href="https://museodememoria.gov.co/"
-    >Museum of Memory of Colombia</a
-  >, Digital Product Designer
-</p>
+[Museum of Memory of Colombia](https://museodememoria.gov.co/), Digital Product Designer
 
-<p>
-  <a href="https://www.ebi.ac.uk/chembl/">
-    European Bioinformatics Institute</a
-  >, Data Visualization Trainee
-</p>
+[European Bioinformatics Institute](https://www.ebi.ac.uk/chembl/), Data Visualization Trainee
 
-<p>
-  <a href="https://www.lasillavacia.com/"> La Silla Vacía</a>, Web
-  Design Intern
-</p>
+[La Silla Vacía](https://www.lasillavacia.com/), Web Design Intern
 
-<h2 class="margin-top">Education</h2>
-<p>
-  <a href="https://arqdis.uniandes.edu.co/">Universidad de los Andes</a
-  >, BA Design
-</p>
-<h2 class="margin-top">Exhibitions & Publications</h2>
-<p>
-  <a
-    href="https://engineering.celonis.com/blog/how-we-created-a-beautiful-smart-and-easy-to-use-histogram-component/"
-    >How we created a smart and easy to use histogram component
-  </a>
-  (Blog Post)
-</p>
+## Education
 
-<p>
-  <a href="https://arqdis.uniandes.edu.co/notas/entrevista-laura-junco/"
-    >ArqDis Uniandes</a
-  >
-  (Interview)
-</p>
-<p>
-  <a href="https://www.youtube.com/watch?v=6cVcZOx1ABE"
-    >Ventanas de encuentro</a
-  >, FLORA ars+natura (Exhibition)
-</p>
-<p>
-  <a href="https://pcdbogota.github.io/#interfaces-invisibles-ventanas"
-    >Invisible interfaces</a
-  >, Processing Community Day (Talk and Workshop)
-</p>
+[Universidad de los Andes](https://arqdis.uniandes.edu.co/), BA Design
 
-<p>
-  <a
-    href="https://cumulusassociation.org/wp-content/uploads/2021/09/cumulus-conference-proceedings-bogota-2019.pdf"
-    >Technologies for introspection</a
-  >, Cumulus (Paper and Exhibition)
-</p>
+## Exhibitions & Publications
 
-<p>
-  <a href="https://www.pdc2020.org/artful-integrators-award/"
-    >Mending the New</a
-  >, Participatory Design Conference (Exhibition)
-</p>
+[How we created a smart and easy to use histogram component](https://engineering.celonis.com/blog/how-we-created-a-beautiful-smart-and-easy-to-use-histogram-component/) (Blog Post)
 
-<p>
-  <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6323927/"
-    >Towards Direct Deposition of Bioassay Data</a
-  >, Nucleic Acids Research (Paper)
-</p>
+[ArqDis Uniandes](https://arqdis.uniandes.edu.co/notas/entrevista-laura-junco/) (Interview)
+
+[Ventanas de encuentro](https://www.youtube.com/watch?v=6cVcZOx1ABE), FLORA ars+natura (Exhibition)
+
+[Invisible interfaces](https://pcdbogota.github.io/#interfaces-invisibles-ventanas), Processing Community Day (Talk and Workshop)
+
+[Technologies for introspection](https://cumulusassociation.org/wp-content/uploads/2021/09/cumulus-conference-proceedings-bogota-2019.pdf), Cumulus (Paper and Exhibition)
+
+[Mending the New](https://www.pdc2020.org/artful-integrators-award/), Participatory Design Conference (Exhibition)
+
+[Towards Direct Deposition of Bioassay Data](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6323927/), Nucleic Acids Research (Paper)
