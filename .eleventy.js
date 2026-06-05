@@ -2,6 +2,9 @@ const markdownIt = require("markdown-it");
 const md = new markdownIt();
 
 module.exports = function (eleventyConfig) {
+  // site/ is gitignored; assemble creates it as symlinks to template/ + content/
+  eleventyConfig.setUseGitIgnore(false);
+
   eleventyConfig.addNunjucksFilter("markdownify", function (value) {
     return md.render(value || "");
   });
@@ -12,21 +15,21 @@ module.exports = function (eleventyConfig) {
     return date.toLocaleDateString("en-US", options);
   });
 
-  eleventyConfig.addPassthroughCopy("style.css");
-  eleventyConfig.addPassthroughCopy("assets");
-  eleventyConfig.addPassthroughCopy("CNAME");
-  eleventyConfig.addPassthroughCopy("robots.txt");
+  eleventyConfig.addPassthroughCopy("site/style.css");
+  eleventyConfig.addPassthroughCopy("site/assets");
+  eleventyConfig.addPassthroughCopy("site/CNAME");
+  eleventyConfig.addPassthroughCopy("site/robots.txt");
 
   eleventyConfig.addCollection("work", function (collection) {
     return collection
-      .getFilteredByGlob("work/*.md")
+      .getFilteredByGlob("site/work/*.md")
       .filter((project) => project.fileSlug !== "index")
       .sort((a, b) => a.data.order - b.data.order);
   });
 
   return {
     dir: {
-      input: ".",
+      input: "site",
       includes: "_includes",
       layouts: "_layouts",
       output: "_site",
