@@ -4,6 +4,7 @@ navActive: work
 title: "Invisible Interfaces"
 order: 12
 category: tech
+image: "./assets/invisible-interfaces.jpg"
 role: Workshop teacher
 technologies: Processing, Java
 description: |

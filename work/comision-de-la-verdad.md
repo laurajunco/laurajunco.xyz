@@ -4,6 +4,7 @@ navActive: work
 title: "Comisión de la Verdad"
 order: 3
 category: viz
+image: "./assets/comision-de-la-verdad.gif"
 role: Data Visualization, Web Development
 technologies: React.js, D3.js, ElasticSearch, R
 description: |

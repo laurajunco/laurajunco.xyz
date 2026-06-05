@@ -4,6 +4,7 @@ navActive: work
 title: "Museum of Memory of Colombia"
 order: 15
 category: web
+image: "./assets/museum-of-memory.jpg"
 role: Interface Design, Front-end Development
 technologies: WordPress, HTML, CSS, JavaScript
 description: |

@@ -4,6 +4,7 @@ navActive: work
 title: "Ventanas de Encuentro"
 order: 14
 category: tech
+image: "./assets/ventanas.jpg"
 role: Interaction Design, Circuit and Electronics Design
 technologies: Arduino, Textiles, Electronics
 description: |

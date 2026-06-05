@@ -4,6 +4,7 @@ navActive: work
 title: "Digital Archive of Testimonial Textiles"
 order: 7
 category: web
+image: "./assets/digital-archive-of-testimonial-textiles.gif"
 role: User interface design, Illustration, Front End Development
 technologies: HTML, CSS, JavaScript
 description: |
