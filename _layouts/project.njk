@@ -3,5 +3,22 @@ layout: base.njk
 ---
 
 <section class="project-page">
-  {{ content | safe }}
+  <section>
+    {% if description %}
+      <div class="description">{{ description | markdownify | safe }}</div>
+    {% endif %}
+
+    {% if role %}
+      <pre class="role">{{ role }}</pre>
+    {% endif %}
+
+    {% for image in images %}
+      <figure>
+        <img class="margin-top" src="{{ image.src }}" />
+        {% if image.caption %}
+          <figcaption>{{ image.caption }}</figcaption>
+        {% endif %}
+      </figure>
+    {% endfor %}
+  </section>
 </section>
