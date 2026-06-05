@@ -1,17 +1,9 @@
-const { execSync } = require("child_process");
 const markdownIt = require("markdown-it");
 const md = new markdownIt();
 
 module.exports = function (eleventyConfig) {
-  // site/ is gitignored but must remain Eleventy's input after assemble
+  // site/ is gitignored; assemble creates it as symlinks to template/ + content/
   eleventyConfig.setUseGitIgnore(false);
-
-  eleventyConfig.on("eleventy.beforeWatch", () => {
-    execSync("node scripts/assemble.js", { stdio: "inherit" });
-  });
-
-  eleventyConfig.addWatchTarget("./content/");
-  eleventyConfig.addWatchTarget("./template/");
 
   eleventyConfig.addNunjucksFilter("markdownify", function (value) {
     return md.render(value || "");
