@@ -11,11 +11,7 @@ description: |
 
 images:
   - src: "/assets/work/digital-archive-of-testimonial-textiles/4.jpg"
-    caption: ""
   - src: "/assets/work/digital-archive-of-testimonial-textiles/1.jpg"
-    caption: ""
   - src: "/assets/work/digital-archive-of-testimonial-textiles/2.jpg"
-    caption: ""
   - src: "/assets/work/digital-archive-of-testimonial-textiles/3.jpg"
-    caption: ""
 ---

@@ -13,11 +13,7 @@ description: |
 
 images:
   - src: "/assets/work/ventanas-de-encuentro/1.jpg"
-    caption: ""
   - src: "/assets/work/ventanas-de-encuentro/2.jpg"
-    caption: ""
   - src: "/assets/work/ventanas-de-encuentro/3.jpg"
-    caption: ""
   - src: "/assets/work/ventanas-de-encuentro/4.jpeg"
-    caption: ""
 ---

@@ -8,11 +8,7 @@ description: |
 
 images:
   - src: "/assets/work/ukpact/1.jpg"
-    caption: ""
   - src: "/assets/work/ukpact/2.jpg"
-    caption: ""
   - src: "/assets/work/ukpact/4.jpg"
-    caption: ""
   - src: "/assets/work/ukpact/3.jpg"
-    caption: ""
 ---

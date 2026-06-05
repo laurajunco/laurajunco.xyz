@@ -12,11 +12,7 @@ description: |
    [enningunaparte.online](https://laurajunco.github.io/enningunaparte/) / [Instagram](https://www.instagram.com/enningunaparte__/)
 images:
   - src: "/assets/work/nowhere-archive/1.gif"
-    caption: ""
   - src: "/assets/work/nowhere-archive/2.png"
-    caption: ""
   - src: "/assets/work/nowhere-archive/3.png"
-    caption: ""
   - src: "/assets/work/nowhere-archive/4.jpg"
-    caption: ""
 ---

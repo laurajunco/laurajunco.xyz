@@ -13,9 +13,6 @@ description: |
 
 images:
   - src: "/assets/work/aqui-vive-gente/2.png"
-    caption: ""
   - src: "/assets/work/aqui-vive-gente/1.jpg"
-    caption: ""
   - src: "/assets/work/aqui-vive-gente/3.gif"
-    caption: ""
 ---

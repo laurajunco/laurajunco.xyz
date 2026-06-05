@@ -10,9 +10,6 @@ description: |
   Visit the Museum → [museodememoria.gov.co](https://museodememoria.gov.co/)
 images:
   - src: "/assets/work/museum-of-memory-of-colombia/1.jpg"
-    caption: ""
   - src: "/assets/work/museum-of-memory-of-colombia/2.jpg"
-    caption: ""
   - src: "/assets/work/museum-of-memory-of-colombia/3.jpg"
-    caption: ""
 ---

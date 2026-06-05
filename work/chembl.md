@@ -13,7 +13,5 @@ description: |
 
 images:
   - src: "/assets/work/chembl/2.jpg"
-    caption: ""
   - src: "/assets/work/chembl/1.jpg"
-    caption: ""
 ---

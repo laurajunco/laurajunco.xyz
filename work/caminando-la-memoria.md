@@ -10,9 +10,6 @@ description: |
 
 images:
   - src: "/assets/work/caminando-la-memoria/1.jpg"
-    caption: ""
   - src: "/assets/work/caminando-la-memoria/2.jpg"
-    caption: ""
   - src: "/assets/work/caminando-la-memoria/3.jpg"
-    caption: ""
 ---

@@ -9,11 +9,11 @@ layout: base.njk
     {% endif %}
 
     {% if role %}
-      <pre class="role">{{ role | markdownify | safe }}</pre>
+      <pre class="role">Role: {{ role }}</pre>
     {% endif %}
 
     {% if technologies %}
-      <pre class="technologies">{{ technologies | markdownify | safe }}</pre>
+      <pre class="technologies">Technologies: {{ technologies }}</pre>
     {% endif %}
 
     {% for image in images %}

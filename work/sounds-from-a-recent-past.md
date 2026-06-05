@@ -12,13 +12,8 @@ description: |
    [Build your own](https://laurajunco.github.io/songs-from-a-recent-past/)
 images:
   - src: "/assets/work/sounds-from-a-recent-past/1.png"
-    caption: ""
   - src: "/assets/work/sounds-from-a-recent-past/2.png"
-    caption: ""
   - src: "/assets/work/sounds-from-a-recent-past/3.png"
-    caption: ""
   - src: "/assets/work/sounds-from-a-recent-past/4.jpg"
-    caption: ""
   - src: "/assets/work/sounds-from-a-recent-past/5.jpg"
-    caption: ""
 ---
