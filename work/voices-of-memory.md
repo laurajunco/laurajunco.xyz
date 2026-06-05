@@ -2,6 +2,8 @@
 layout: project.njk
 navActive: work
 title: "Voices of Memory"
+order: 9
+category: web
 role: Web Development, Graphic Design and Illustration
 technologies: WordPress, HTML, CSS, JavaScript
 description: |

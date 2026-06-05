@@ -2,6 +2,8 @@
 layout: project.njk
 navActive: work
 title: "Comisión de la Verdad"
+order: 3
+category: viz
 role: Data Visualization, Web Development
 technologies: React.js, D3.js, ElasticSearch, R
 description: |

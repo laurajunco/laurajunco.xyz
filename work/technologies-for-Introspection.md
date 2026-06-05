@@ -2,6 +2,8 @@
 layout: project.njk
 navActive: work
 title: "Technologies for Introspection"
+order: 10
+category: tech
 role: Installation, Interaction Design
 technologies: Electronics, Sensors, Custom Software
 description: |

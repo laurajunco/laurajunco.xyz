@@ -2,6 +2,8 @@
 layout: project.njk
 navActive: work
 title: "Ventanas de Encuentro"
+order: 14
+category: tech
 role: Interaction Design, Circuit and Electronics Design
 technologies: Arduino, Textiles, Electronics
 description: |

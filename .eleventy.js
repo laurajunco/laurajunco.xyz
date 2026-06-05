@@ -31,6 +31,13 @@ module.exports = function (eleventyConfig) {
       .sort((a, b) => new Date(b.date) - new Date(a.date));
   });
 
+  eleventyConfig.addCollection("work", function (collection) {
+    return collection
+      .getFilteredByGlob("work/*.md")
+      .filter((project) => project.fileSlug !== "index")
+      .sort((a, b) => a.data.order - b.data.order);
+  });
+
   return {
     dir: {
       input: ".",

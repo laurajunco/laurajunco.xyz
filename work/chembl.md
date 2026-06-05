@@ -2,6 +2,8 @@
 layout: project.njk
 navActive: work
 title: "ChEMBL"
+order: 11
+category: viz
 role: Front-end development, data visualization, UI design,
 technologies: D3.js, ElasticSearch, Python
 description: |

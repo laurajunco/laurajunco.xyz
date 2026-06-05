@@ -2,6 +2,8 @@
 layout: project.njk
 navActive: work
 title: "Digital Archive of Testimonial Textiles"
+order: 7
+category: web
 role: User interface design, Illustration, Front End Development
 technologies: HTML, CSS, JavaScript
 description: |

@@ -2,6 +2,8 @@
 layout: project.njk
 navActive: work
 title: "Time(s) to Listen"
+order: 8
+category: tech
 role: Design Research, Web development, Interaction Design,
 technologies: WordPress, HTML, CSS, JavaScript, Arduino
 description: |

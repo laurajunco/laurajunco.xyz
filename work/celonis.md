@@ -2,6 +2,8 @@
 layout: project.njk
 navActive: work
 title: "Celonis"
+order: 2
+category: viz
 role: Front-end development
 technologies: Angular, D3.js, TypeScript, GraphViz
 description: |

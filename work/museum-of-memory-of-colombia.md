@@ -2,6 +2,8 @@
 layout: project.njk
 navActive: work
 title: "Museum of Memory of Colombia"
+order: 15
+category: web
 role: Interface Design, Front-end Development
 technologies: WordPress, HTML, CSS, JavaScript
 description: |

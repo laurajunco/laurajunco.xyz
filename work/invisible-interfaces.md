@@ -2,6 +2,8 @@
 layout: project.njk
 navActive: work
 title: "Invisible Interfaces"
+order: 12
+category: tech
 role: Workshop teacher
 technologies: Processing, Java
 description: |
