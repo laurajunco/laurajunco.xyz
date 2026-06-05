@@ -10,7 +10,7 @@
   </head>
   <body>
     {% include "header.njk" %}
-    <main>
+    <main{% if mainClass %} class="{{ mainClass }}"{% endif %}>
       {{ content | safe }}
     </main>
   </body>
