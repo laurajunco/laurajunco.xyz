@@ -13,10 +13,10 @@ role: |
   
   Technologies: Processing, Java
 images:
-  - src: "./assets/1.png"
+  - src: "/assets/work/invisible-interfaces/1.png"
     caption: ""
-  - src: "./assets/2.gif"
+  - src: "/assets/work/invisible-interfaces/2.gif"
     caption: ""
-  - src: "./assets/4.png"
+  - src: "/assets/work/invisible-interfaces/4.png"
     caption: ""
 ---

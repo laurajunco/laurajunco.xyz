@@ -13,8 +13,8 @@ role: |
   
   Technologies: D3.js, ElasticSearch, Python
 images:
-  - src: "./assets/2.jpg"
+  - src: "/assets/work/chembl/2.jpg"
     caption: ""
-  - src: "./assets/1.jpg"
+  - src: "/assets/work/chembl/1.jpg"
     caption: ""
 ---

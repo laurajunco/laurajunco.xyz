@@ -7,12 +7,12 @@ description: |
 role: |
   Role: Data Visualization, Graphic Design
 images:
-  - src: "./assets/1.jpg"
+  - src: "/assets/work/ukpact/1.jpg"
     caption: ""
-  - src: "./assets/2.jpg"
+  - src: "/assets/work/ukpact/2.jpg"
     caption: ""
-  - src: "./assets/4.jpg"
+  - src: "/assets/work/ukpact/4.jpg"
     caption: ""
-  - src: "./assets/3.jpg"
+  - src: "/assets/work/ukpact/3.jpg"
     caption: ""
 ---

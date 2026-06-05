@@ -13,12 +13,12 @@ role: |
   
   Technologies: WordPress, HTML, CSS, JavaScript, Arduino
 images:
-  - src: "./assets/1.jpg"
+  - src: "/assets/work/times-to-listen/1.jpg"
     caption: ""
-  - src: "./assets/2.jpg"
+  - src: "/assets/work/times-to-listen/2.jpg"
     caption: ""
-  - src: "./assets/3.gif"
+  - src: "/assets/work/times-to-listen/3.gif"
     caption: ""
-  - src: "./assets/4.gif"
+  - src: "/assets/work/times-to-listen/4.gif"
     caption: ""
 ---

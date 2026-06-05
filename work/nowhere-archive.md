@@ -13,12 +13,12 @@ role: |
   
   Technologies:  HTML, CSS, JavaScript
 images:
-  - src: "./assets/1.gif"
+  - src: "/assets/work/nowhere-archive/1.gif"
     caption: ""
-  - src: "./assets/2.png"
+  - src: "/assets/work/nowhere-archive/2.png"
     caption: ""
-  - src: "./assets/3.png"
+  - src: "/assets/work/nowhere-archive/3.png"
     caption: ""
-  - src: "./assets/4.jpg"
+  - src: "/assets/work/nowhere-archive/4.jpg"
     caption: ""
 ---

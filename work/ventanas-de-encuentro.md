@@ -13,12 +13,12 @@ role: |
   
   Technologies: Arduino, Textiles, Electronics
 images:
-  - src: "./assets/1.jpg"
+  - src: "/assets/work/ventanas-de-encuentro/1.jpg"
     caption: ""
-  - src: "./assets/2.jpg"
+  - src: "/assets/work/ventanas-de-encuentro/2.jpg"
     caption: ""
-  - src: "./assets/3.jpg"
+  - src: "/assets/work/ventanas-de-encuentro/3.jpg"
     caption: ""
-  - src: "./assets/4.jpeg"
+  - src: "/assets/work/ventanas-de-encuentro/4.jpeg"
     caption: ""
 ---

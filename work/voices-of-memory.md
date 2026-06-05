@@ -13,14 +13,14 @@ role: |
   
   Technologies: WordPress, HTML, CSS, JavaScript
 images:
-  - src: "./assets/1.jpg"
+  - src: "/assets/work/voices-of-memory/1.jpg"
     caption: ""
-  - src: "./assets/2.gif"
+  - src: "/assets/work/voices-of-memory/2.gif"
     caption: ""
-  - src: "./assets/3.jpg"
+  - src: "/assets/work/voices-of-memory/3.jpg"
     caption: ""
-  - src: "./assets/5.gif"
+  - src: "/assets/work/voices-of-memory/5.gif"
     caption: ""
-  - src: "./assets/4.jpg"
+  - src: "/assets/work/voices-of-memory/4.jpg"
     caption: ""
 ---

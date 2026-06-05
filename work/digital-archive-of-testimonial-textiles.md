@@ -11,12 +11,12 @@ role: |
   
   Technologies: HTML, CSS, JavaScript
 images:
-  - src: "./assets/4.jpg"
+  - src: "/assets/work/digital-archive-of-testimonial-textiles/4.jpg"
     caption: ""
-  - src: "./assets/1.jpg"
+  - src: "/assets/work/digital-archive-of-testimonial-textiles/1.jpg"
     caption: ""
-  - src: "./assets/2.jpg"
+  - src: "/assets/work/digital-archive-of-testimonial-textiles/2.jpg"
     caption: ""
-  - src: "./assets/3.jpg"
+  - src: "/assets/work/digital-archive-of-testimonial-textiles/3.jpg"
     caption: ""
 ---

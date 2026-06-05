@@ -13,10 +13,10 @@ role: |
   
   Technologies: WordPress, HTML, CSS, JavaScript
 images:
-  - src: "./assets/2.png"
+  - src: "/assets/work/aqui-vive-gente/2.png"
     caption: ""
-  - src: "./assets/1.jpg"
+  - src: "/assets/work/aqui-vive-gente/1.jpg"
     caption: ""
-  - src: "./assets/3.gif"
+  - src: "/assets/work/aqui-vive-gente/3.gif"
     caption: ""
 ---

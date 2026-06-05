@@ -11,14 +11,14 @@ role: |
   
   Technologies: Angular, D3.js, TypeScript, GraphViz
 images:
-  - src: "./assets/1.gif"
+  - src: "/assets/work/celonis/1.gif"
     caption: "Charts created with in-house library"
-  - src: "./assets/p1.png"
+  - src: "/assets/work/celonis/p1.png"
     caption: "Process Visualization"
-  - src: "./assets/3.gif"
+  - src: "/assets/work/celonis/3.gif"
     caption: "Accesibility for charts"
-  - src: "./assets/p2.png"
+  - src: "/assets/work/celonis/p2.png"
     caption: "Graph Visualization"
-  - src: "./assets/studio.gif"
+  - src: "/assets/work/celonis/studio.gif"
     caption: "Dashboarding tools"
 ---

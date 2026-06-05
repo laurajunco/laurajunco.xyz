@@ -9,10 +9,10 @@ description: |
 role: |
   Role: Graphic Design, Illustration
 images:
-  - src: "./assets/1.jpg"
+  - src: "/assets/work/caminando-la-memoria/1.jpg"
     caption: ""
-  - src: "./assets/2.jpg"
+  - src: "/assets/work/caminando-la-memoria/2.jpg"
     caption: ""
-  - src: "./assets/3.jpg"
+  - src: "/assets/work/caminando-la-memoria/3.jpg"
     caption: ""
 ---

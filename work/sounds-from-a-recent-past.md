@@ -13,14 +13,14 @@ role: |
   
   Technologies: React, D3.js, TypeScript
 images:
-  - src: "./assets/1.png"
+  - src: "/assets/work/sounds-from-a-recent-past/1.png"
     caption: ""
-  - src: "./assets/2.png"
+  - src: "/assets/work/sounds-from-a-recent-past/2.png"
     caption: ""
-  - src: "./assets/3.png"
+  - src: "/assets/work/sounds-from-a-recent-past/3.png"
     caption: ""
-  - src: "./assets/4.jpg"
+  - src: "/assets/work/sounds-from-a-recent-past/4.jpg"
     caption: ""
-  - src: "./assets/5.jpg"
+  - src: "/assets/work/sounds-from-a-recent-past/5.jpg"
     caption: ""
 ---

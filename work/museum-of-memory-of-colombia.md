@@ -11,10 +11,10 @@ role: |
   
   Technologies: WordPress, HTML, CSS, JavaScript
 images:
-  - src: "./assets/1.jpg"
+  - src: "/assets/work/museum-of-memory-of-colombia/1.jpg"
     caption: ""
-  - src: "./assets/2.jpg"
+  - src: "/assets/work/museum-of-memory-of-colombia/2.jpg"
     caption: ""
-  - src: "./assets/3.jpg"
+  - src: "/assets/work/museum-of-memory-of-colombia/3.jpg"
     caption: ""
 ---
