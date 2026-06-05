@@ -194,7 +194,17 @@ section.work {
   font-size: 1.5em;
   font-weight: 400;
   font-style: normal;
-  line-height: 1.4em;
+  line-height: 1.4;
+  overflow-wrap: break-word;
+  word-break: break-word;
+}
+
+.project-page .role,
+.project-page .technologies {
+  white-space: pre-wrap;
+  line-height: 1.4;
+  overflow-wrap: break-word;
+  word-break: break-word;
 }
 
 .project-page a,

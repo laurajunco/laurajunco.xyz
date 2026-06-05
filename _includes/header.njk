@@ -1,12 +1,16 @@
 <header>
-  <h1><a href="/">Laura Junco</a></h1>
+  <h1><a href="/">{{ site.name }}</a></h1>
 
   <nav class="main-nav">
     <menu>
-      <li><a class="{% if navActive == 'work' or page.url == '/' %}active{% endif %}" href="/">Work</a></li>
-      <li><a class="{% if navActive == 'about' %}active{% endif %}" href="/about/">About</a></li>
-      <li><a class="{% if navActive == 'cv' %}active{% endif %}" href="/cv/">CV</a></li>
-      <li><a class="{% if navActive == 'blog' %}active{% endif %}" href="/blog/">Blog</a></li>
+      {% for item in navigation %}
+        <li>
+          <a
+            class="{% if navActive == item.key or (item.key == 'work' and page.url == '/') %}active{% endif %}"
+            href="{{ item.url }}"
+          >{{ item.label }}</a>
+        </li>
+      {% endfor %}
     </menu>
   </nav>
 </header>
