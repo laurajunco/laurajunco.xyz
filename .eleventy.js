@@ -19,8 +19,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("robots.txt");
 
   eleventyConfig.addCollection("blog", function (collection) {
-    // Get all blog posts from blog/*.md files (11ty discovers them natively)
-    const posts = collection
+    return collection
       .getFilteredByGlob("blog/*.md")
       .filter((post) => post.fileSlug !== "index")
       .map((post) => ({
@@ -28,11 +27,8 @@ module.exports = function (eleventyConfig) {
         title: post.data.title,
         type: post.data.externalUrl ? "external" : "local",
         url: post.data.externalUrl || post.url,
-        content: post.content,
-      }));
-
-    // Sort by date descending
-    return posts.sort((a, b) => new Date(b.date) - new Date(a.date));
+      }))
+      .sort((a, b) => new Date(b.date) - new Date(a.date));
   });
 
   return {
