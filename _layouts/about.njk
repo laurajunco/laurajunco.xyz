@@ -1,0 +1,14 @@
+---
+layout: base.njk
+---
+
+<section>
+  {% if image %}
+    <figure>
+      <img src="{{ image.src }}" alt="{{ image.alt }}" />
+      <figcaption>{{ image.caption }}</figcaption>
+    </figure>
+  {% endif %}
+
+  <pre class="description narrow margin-top">{{ content | safe }}</pre>
+</section>

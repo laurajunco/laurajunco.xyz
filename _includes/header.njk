@@ -1,0 +1,12 @@
+<header>
+  <h1><a href="/">Laura Junco</a></h1>
+
+  <nav class="main-nav">
+    <menu>
+      <li><a class="{% if navActive == 'work' or page.url == '/' %}active{% endif %}" href="/">Work</a></li>
+      <li><a class="{% if navActive == 'about' %}active{% endif %}" href="/about/">About</a></li>
+      <li><a class="{% if navActive == 'cv' %}active{% endif %}" href="/cv/">CV</a></li>
+      <li><a class="{% if navActive == 'blog' %}active{% endif %}" href="/blog/">Blog</a></li>
+    </menu>
+  </nav>
+</header>
