@@ -2,7 +2,7 @@
 layout: about.njk
 navActive: about
 mainClass: project-page
-title: "LAURA JUNCO - About"
+title: "About"
 templateEngineOverride: njk
 image:
   src: "/assets/me.png"

@@ -2,7 +2,7 @@
 layout: cv.njk
 navActive: cv
 mainClass: cv-page
-title: "LAURA JUNCO - CV"
+title: "CV"
 templateEngineOverride: njk
 ---
 
