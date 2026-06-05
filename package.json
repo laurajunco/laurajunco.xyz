@@ -3,8 +3,9 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "build": "eleventy",
-    "serve": "eleventy --serve"
+    "assemble": "node scripts/assemble.js",
+    "build": "npm run assemble && eleventy",
+    "serve": "npm run assemble && eleventy --serve"
   },
   "devDependencies": {
     "@11ty/eleventy": "^2.0.0",
