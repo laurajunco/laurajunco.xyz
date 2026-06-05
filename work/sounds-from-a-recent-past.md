@@ -3,7 +3,6 @@ layout: project.njk
 navActive: work
 title: "Songs from the recent past"
 order: 1
-category: viz
 image: "./assets/songs-from-a-recent-past.gif"
 role: Web development, UI Design, Data visualization
 technologies: React, D3.js, TypeScript

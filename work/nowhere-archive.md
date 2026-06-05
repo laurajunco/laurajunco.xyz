@@ -3,7 +3,6 @@ layout: project.njk
 navActive: work
 title: "The Nowhere Archive"
 order: 6
-category: web
 image: "./assets/nowhere-archive.jpg"
 role: Web development, Interaction design, UI Design
 technologies: HTML, CSS, JavaScript

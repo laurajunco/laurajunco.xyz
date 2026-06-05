@@ -3,7 +3,6 @@ layout: project.njk
 navActive: work
 title: "Caminando la memoria"
 order: 4
-category: viz
 image: "./assets/caminando-la-memoria.jpg"
 role: Graphic Design, Illustration
 description: |

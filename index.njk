@@ -5,24 +5,10 @@ title: "Laura Junco"
 permalink: /index.html
 ---
 
-<nav class="work-nav">
-  <menu>
-    See:
-    <li><a class="active">All</a></li>
-    |
-    <li><a data-link="viz">Data visualization</a></li>
-    |
-    <li><a data-link="web">Web</a></li>
-    |
-    <li><a data-link="tech">Creative technology</a></li>
-  </menu>
-</nav>
-
 <section class="work">
-  {% for project in collections.work | sort(attribute="data.order") %}
+  {% for project in collections.work %}
     <a
       class="project"
-      data-category="{{ project.data.category }}"
       href="./work/{{ project.fileSlug }}/"
     >
       <img

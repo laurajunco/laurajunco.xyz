@@ -2,8 +2,6 @@ const markdownIt = require("markdown-it");
 const md = new markdownIt();
 
 module.exports = function (eleventyConfig) {
-  eleventyConfig.ignores.add("about/plan.md");
-
   eleventyConfig.addNunjucksFilter("markdownify", function (value) {
     return md.render(value || "");
   });
@@ -15,7 +13,6 @@ module.exports = function (eleventyConfig) {
   });
 
   eleventyConfig.addPassthroughCopy("style.css");
-  eleventyConfig.addPassthroughCopy("main.js");
   eleventyConfig.addPassthroughCopy("assets");
   eleventyConfig.addPassthroughCopy("CNAME");
   eleventyConfig.addPassthroughCopy("robots.txt");

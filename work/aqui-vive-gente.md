@@ -3,7 +3,6 @@ layout: project.njk
 navActive: work
 title: "Aquí vive gente"
 order: 5
-category: web
 image: "./assets/aqui-vive-gente.gif"
 role: Web development, Interaction Design
 technologies: WordPress, HTML, CSS, JavaScript

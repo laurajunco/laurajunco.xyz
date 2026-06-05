@@ -3,7 +3,6 @@ layout: project.njk
 navActive: work
 title: "UK Pact"
 order: 13
-category: viz
 image: "./assets/ukpact.jpg"
 role: Data Visualization, Graphic Design
 description: |
