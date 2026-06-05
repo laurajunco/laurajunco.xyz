@@ -2,7 +2,7 @@
 layout: project.njk
 navActive: work
 title: "Voices of Memory"
-role: Role: Web Development, Graphic Design and Illustration
+role: Web Development, Graphic Design and Illustration
 technologies: WordPress, HTML, CSS, JavaScript
 description: |
   Since the 1980s, artist Beatriz González has dealt with Colombia's armed conflict themes through drawing, painting, printmaking and sculpture. The main sources of her work are images from newspaper articles published in the national press.

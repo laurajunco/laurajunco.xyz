@@ -2,7 +2,7 @@
 layout: project.njk
 navActive: work
 title: "Invisible Interfaces"
-role: Role: Workshop teacher
+role: Workshop teacher
 technologies: Processing, Java
 description: |
   The window is one of the most commonly used metaphors in computing. These rectangular containers often go unnoticed, even when they are the most used graphical interface.
