@@ -1,6 +1,4 @@
 ---
-layout: project.njk
-navActive: work
 title: "ChEMBL"
 order: 11
 image: "./assets/chembl.gif"

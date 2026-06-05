@@ -1,6 +1,4 @@
 ---
-layout: project.njk
-navActive: work
 title: "Time(s) to Listen"
 order: 8
 image: "./assets/times-to-listen.jpg"

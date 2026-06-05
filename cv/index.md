@@ -1,7 +1,4 @@
 ---
-layout: cv.njk
-navActive: cv
-mainClass: cv-page
 title: "CV"
 templateEngineOverride: njk
 ---

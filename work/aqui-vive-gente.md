@@ -1,6 +1,4 @@
 ---
-layout: project.njk
-navActive: work
 title: "Aquí vive gente"
 order: 5
 image: "./assets/aqui-vive-gente.gif"

@@ -1,6 +1,4 @@
 ---
-layout: project.njk
-navActive: work
 title: "Voices of Memory"
 order: 9
 image: "./assets/voices-of-memory.gif"

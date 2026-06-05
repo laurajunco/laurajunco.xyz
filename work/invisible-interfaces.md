@@ -1,6 +1,4 @@
 ---
-layout: project.njk
-navActive: work
 title: "Invisible Interfaces"
 order: 12
 image: "./assets/invisible-interfaces.jpg"

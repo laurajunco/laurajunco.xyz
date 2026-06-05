@@ -1,6 +1,4 @@
 ---
-layout: project.njk
-navActive: work
 title: "Comisión de la Verdad"
 order: 3
 image: "./assets/comision-de-la-verdad.gif"

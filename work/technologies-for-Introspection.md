@@ -1,6 +1,4 @@
 ---
-layout: project.njk
-navActive: work
 title: "Technologies for Introspection"
 order: 10
 image: "assets/technologies-for-Introspection.jpg"

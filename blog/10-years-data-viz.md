@@ -1,6 +1,4 @@
 ---
-layout: blog.njk
-navActive: blog
 title: "10 years of Data Visualization"
 date: 2026-06-04
 ---

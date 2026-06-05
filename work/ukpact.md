@@ -1,6 +1,4 @@
 ---
-layout: project.njk
-navActive: work
 title: "UK Pact"
 order: 13
 image: "./assets/ukpact.jpg"

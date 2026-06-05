@@ -1,6 +1,4 @@
 ---
-layout: project.njk
-navActive: work
 title: "Ventanas de Encuentro"
 order: 14
 image: "./assets/ventanas.jpg"

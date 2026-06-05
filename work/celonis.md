@@ -1,6 +1,4 @@
 ---
-layout: project.njk
-navActive: work
 title: "Celonis"
 order: 2
 image: "./assets/celonis.jpg"

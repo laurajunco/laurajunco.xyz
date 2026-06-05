@@ -1,6 +1,4 @@
 ---
-layout: project.njk
-navActive: work
 title: "Museum of Memory of Colombia"
 order: 15
 image: "./assets/museum-of-memory.jpg"

@@ -1,6 +1,4 @@
 ---
-layout: project.njk
-navActive: work
 title: "The Nowhere Archive"
 order: 6
 image: "./assets/nowhere-archive.jpg"

@@ -1,6 +1,4 @@
 ---
-layout: project.njk
-navActive: work
 title: "Caminando la memoria"
 order: 4
 image: "./assets/caminando-la-memoria.jpg"
