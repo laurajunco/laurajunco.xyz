@@ -43,4 +43,4 @@ Working on a big software project with hundreds of engineers contributing daily,
 
 ## So what
 
-Nowadays there are a lot of things happening, but I still believe making sense of data can help us understand our environment and become better as a society. These 10 years have been a wild but rewarding ride, and I'm very grateful for all the people that have guided me and have let me learn from them. I hope to keep contributing and learning to this field, and I hope to see how things are 10 years from now!
+Nowadays there are a lot of things happening, but I still believe making sense of data can help us understand our environment and become better as a society. These 10 years have been a wild but rewarding ride, and I'm very grateful for all the people that have guided me and have let me learn from them. I hope to keep contributing and learning to this field, and I hope to see how things are 10 years from now! :) 
