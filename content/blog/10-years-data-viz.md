@@ -34,7 +34,7 @@ I worked alongside expert analysts, statisticians, and social scientists to inte
 
 Even though most of my work did not make it to the public eye, it is single-handedly the most meaningful project I've ever been a part of.
 
-Once again, I saw Data Visualization as a means to make sense of real events and help researchers communicate their findings. I got the chance to learn alongside [Néstor](https://github.com/nestorandrespe) and [Juan](https://arroyocreativa.com/), who, apart from their incredible technical skills, worked for years on peace-making and cultural projects.
+Once again, I saw Data Visualization as a means to make sense of real events and help researchers communicate their findings. I got the chance to learn from [Néstor](https://github.com/nestorandrespe) and [Juan](https://arroyocreativa.com/), who, apart from their incredible technical skills, worked for years on peace-making and cultural projects.
 
 ## Data Visualization Software for others
 
