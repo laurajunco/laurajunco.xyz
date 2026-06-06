@@ -9,6 +9,8 @@ It’s been around 10 years since I first learned about Data Visualization. Sinc
 
 When I first started, I would have liked to read the path that led people to find their way to Dataviz, so I'm sharing some of my experiences today, and hope that it is useful or inspiring for someone out there.
 
+<!-- excerpt -->
+
 ## Design for Interactive Media 
 
 In my 2nd year of university, I took the first course that included any type of coding. I remember it vividly. In *Design for Interactive Media*, we learnt the principles of computer programming through the lens of art and design. We used [Processing](https://processing.org/) (still one of my favorite programming tools), and every week we had one creative assignment to explore one computational concept (and that's how I learnt about for loops, but also how digital color works, or about [Ani Albers](https://www.albersfoundation.org/tags/textiles)). 

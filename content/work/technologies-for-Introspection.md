@@ -16,4 +16,6 @@ Technology extends our bodies and senses on infinite levels. By modifying how we
 
 *Technologies for Introspection* asks whether it is possible to turn these extensions of the body back towards the self. Can the technologies that push our attention away bring us closer to ourselves?
 
+<!-- excerpt -->
+
 Three devices defy the sensory experience of everyday life and propose new ways of perceiving the world through a digitally mediated body.

@@ -16,4 +16,6 @@ images:
 
 Inspired by the flyers from live hip-hop, punk, and disco shows in the 70s and 80s, made using cut-outs, photographs, or typography and then copied as cheaply as possible. An exercise in data visualization, composition, and dashboarding tool possibilities.
 
+<!-- excerpt -->
+
  [Build your own](https://laurajunco.github.io/songs-from-a-recent-past/)

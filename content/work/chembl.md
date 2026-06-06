@@ -13,4 +13,6 @@ images:
 
 Web redesign and reusable data visualizations to help researchers with their computational analyses and communicate their findings clearly and effectively.
 
+<!-- excerpt -->
+
 Visit the database → [www.ebi.ac.uk/chembl/](https://www.ebi.ac.uk/chembl/)

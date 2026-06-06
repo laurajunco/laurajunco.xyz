@@ -15,4 +15,6 @@ images:
 
 As part of *[Mending the New](https://www.artesanaltecnologica.org/remendar-lo-nuevo-mending-the-new/)*, a research project studying the ways in which textile crafts shape peace, textiles made by the collectives were intervened with electronics to create interactive experiences that allowed visitors to listen to the women's testimonies.
 
+<!-- excerpt -->
+
 Visit the (online) exhibition → [www.artesanaltecnologica.org/tiempos/](https://www.artesanaltecnologica.org/tiempos/)

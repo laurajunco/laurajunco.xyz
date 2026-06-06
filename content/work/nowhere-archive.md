@@ -15,4 +15,6 @@ images:
 
 An unfinished, mutant and infinite project, a place on the internet that belongs to all of us.
 
+<!-- excerpt -->
+
  [enningunaparte.online](https://laurajunco.github.io/enningunaparte/) / [Instagram](https://www.instagram.com/enningunaparte__/)

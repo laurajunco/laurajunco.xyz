@@ -13,4 +13,6 @@ images:
 
 The digital archive of testimonial textiles is an open digital space for documentation, conservation and research of textiles that tell stories of life during the armed conflict in Colombia.
 
+<!-- excerpt -->
+
 Visit the archive → [textilestestimoniales.org](http://www.textilestestimoniales.org/creadores/)

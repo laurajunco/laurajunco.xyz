@@ -16,4 +16,6 @@ Since the 1980s, artist Beatriz González has dealt with Colombia's armed confli
 
 *Voices of Memory* is a digital exhibition of 5 of González's works where the artist's voice guides visitors through different historical events of Colombian violence and her work.
 
+<!-- excerpt -->
+
 Visit the exhibition → [museodememoria.gov.co/bga](https://laurajunco.github.io/voces-de-la-memoria/public/)

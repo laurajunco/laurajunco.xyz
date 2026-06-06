@@ -14,4 +14,6 @@ images:
 
 This project brought together four organizations dedicated to defending and reclaiming the territory and their place in it.
 
+<!-- excerpt -->
+
 Visit the exhibition → [aquivivegente.espacioodeon.com](https://aquivivegente.espacioodeon.com/)
