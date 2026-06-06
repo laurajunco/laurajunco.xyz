@@ -10,7 +10,7 @@ module.exports = {
   eleventyExcludeFromCollections: false,
   eleventyComputed: {
     layout: (data) => (isBlogIndex(data) ? "base.njk" : "post.njk"),
-    mainClass: (data) => (isBlogIndex(data) ? undefined : "post-page"),
+    mainClass: (data) => (isBlogIndex(data) ? undefined : "post-page prose"),
     permalink: (data) => (data.url ? false : null),
   },
 };
