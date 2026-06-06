@@ -168,7 +168,7 @@ section.work {
 
 .project-page .description {
   white-space: pre-wrap;
-  font-size: 1.5em;
+  font-size: 1.6em;
   font-weight: 400;
   font-style: normal;
   line-height: 1.4;
@@ -328,6 +328,6 @@ ul.blog-posts li span {
   }
 
   .project-page .description {
-    font-size: 1em;
+    font-size: 1.6em;
   }
 }
