@@ -3,8 +3,8 @@ layout: base.njk
 ---
 
 <section class="project-page">
-  {% if description %}
-    <div class="description">{{ description | markdownify | safe }}</div>
+  {% if content %}
+    <div class="description">{{ content | safe }}</div>
   {% endif %}
 
   {% if role %}
