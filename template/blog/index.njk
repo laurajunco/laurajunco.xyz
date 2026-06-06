@@ -11,8 +11,8 @@ title: Blog
           <span>
             <i><time>{{ post.data.date | dateFilter }}</time></i>
           </span>
-          {% if post.data.externalUrl %}
-            <a class="external" target="_blank" href="{{ post.data.externalUrl }}">{{ post.data.title }}</a>
+          {% if post.data.url %}
+            <a class="external" target="_blank" href="{{ post.data.url }}">{{ post.data.title }}</a>
           {% else %}
             <a href="{{ post.url }}">{{ post.data.title }}</a>
           {% endif %}

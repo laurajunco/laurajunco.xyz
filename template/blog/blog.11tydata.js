@@ -1,7 +1,7 @@
 // Shared defaults for everything in blog/.
 // - Posts get the "blog" tag (for collections.blog) and navActive for the header.
 // - blog/index.njk keeps its own layout (base.njk); posts use post.njk + main.post-page.
-// - Posts with externalUrl are listed on the index only — no empty page is built.
+// - Posts with url are listed on the index only — no empty page is built.
 const isBlogIndex = (data) => data.page.url === "/blog/";
 
 module.exports = {
@@ -11,6 +11,6 @@ module.exports = {
   eleventyComputed: {
     layout: (data) => (isBlogIndex(data) ? "base.njk" : "post.njk"),
     mainClass: (data) => (isBlogIndex(data) ? undefined : "post-page"),
-    permalink: (data) => (data.externalUrl ? false : null),
+    permalink: (data) => (data.url ? false : null),
   },
 };
