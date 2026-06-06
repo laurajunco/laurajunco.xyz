@@ -12,10 +12,8 @@ images:
   - src: "/assets/work/times-to-listen/4.gif"
 ---
 
-*Time(s) to Listen* was an exhibition that invited visitors to connect with four textile collectives of women victims of the Colombian armed conflict.
+_Time(s) to Listen_ was an exhibition that invited visitors to connect with four textile collectives of women victims of the Colombian armed conflict.
 
-As part of *[Mending the New](https://www.artesanaltecnologica.org/remendar-lo-nuevo-mending-the-new/)*, a research project studying the ways in which textile crafts shape peace, textiles made by the collectives were intervened with electronics to create interactive experiences that allowed visitors to listen to the women's testimonies.
-
-
+As part of _[Mending the New](https://www.artesanaltecnologica.org/remendar-lo-nuevo-mending-the-new/)_, a research project studying the ways in which textile crafts shape peace, textiles made by the collectives were intervened with electronics to create interactive experiences that allowed visitors to listen to the women's testimonies.
 
 Visit the (online) exhibition → [www.artesanaltecnologica.org/tiempos/](https://www.artesanaltecnologica.org/tiempos/)

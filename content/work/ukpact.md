@@ -11,6 +11,4 @@ images:
   - src: "/assets/work/ukpact/3.jpg"
 ---
 
-Infographics design and data visualization for the project: *"Low Carbon Cities in Colombia, an urban modeling approach for Public Policy Analysis"* which provided technical criteria, tools, and recommendations for sustainable urban development in Colombia.
-
-
+Infographics design and data visualization for the project: _"Low Carbon Cities in Colombia, an urban modeling approach for Public Policy Analysis"_ which provided technical criteria, tools, and recommendations for sustainable urban development in Colombia.

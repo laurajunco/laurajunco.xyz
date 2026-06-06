@@ -13,10 +13,8 @@ images:
   - src: "/assets/work/comision-de-la-verdad/5.jpg"
 ---
 
-Data visualizations about the Colombian armed conflict for *[Comisión de La Verdad de Colombia](https://es.wikipedia.org/wiki/Comisi%C3%B3n_de_la_Verdad_(Colombia))*.
+Data visualizations about the Colombian armed conflict for _[Comisión de La Verdad de Colombia](<https://es.wikipedia.org/wiki/Comisi%C3%B3n_de_la_Verdad_(Colombia)>)_.
 
 I created a series of interactive web visualizations using React.js, D3.js, ElasticSearch and R. These visualizations where used by researchers to understand and promote recognition of the recent history of violence in Colombia.
-
-
 
 Checkout the [Github repository](https://github.com/laurajunco/comision-de-la-verdad)
