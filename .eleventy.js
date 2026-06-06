@@ -5,15 +5,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.setUseGitIgnore(false);
 
   eleventyConfig.setLibrary("md", md);
-  eleventyConfig.setFrontMatterParsingOptions({
-    excerpt: true,
-    excerpt_separator: "<!-- excerpt -->",
-    excerpt_alias: "description",
-  });
   eleventyConfig.addNunjucksFilter("markdownify", (value) => md.render(value || ""));
-  eleventyConfig.addNunjucksFilter("striptags", (value) =>
-    String(value || "").replace(/<[^>]+>/g, "").replace(/\s+/g, " ").trim()
-  );
 
   eleventyConfig.addNunjucksFilter("dateFilter", function (dateStr) {
     const date = new Date(dateStr);

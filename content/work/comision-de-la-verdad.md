@@ -1,5 +1,6 @@
 ---
 title: "Comisión de la Verdad"
+description: "Data visualizations about the Colombian armed conflict for Comisión de la Verdad de Colombia. I created a series of interactive web visualizations using React.js, D3.js, ElasticSearch and R."
 order: 3
 image: "/assets/comision-de-la-verdad.gif"
 role: Data Visualization, Web Development
@@ -16,6 +17,6 @@ Data visualizations about the Colombian armed conflict for *[Comisión de La Ver
 
 I created a series of interactive web visualizations using React.js, D3.js, ElasticSearch and R. These visualizations where used by researchers to understand and promote recognition of the recent history of violence in Colombia.
 
-<!-- excerpt -->
+
 
 Checkout the [Github repository](https://github.com/laurajunco/comision-de-la-verdad)

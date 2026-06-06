@@ -1,5 +1,6 @@
 ---
 title: "Digital Archive of Testimonial Textiles"
+description: "The digital archive of testimonial textiles is an open digital space for documentation, conservation and research of textiles that tell stories of life during the armed conflict in Colombia."
 order: 7
 image: "/assets/digital-archive-of-testimonial-textiles.gif"
 role: User interface design, Illustration, Front End Development
@@ -13,6 +14,6 @@ images:
 
 The digital archive of testimonial textiles is an open digital space for documentation, conservation and research of textiles that tell stories of life during the armed conflict in Colombia.
 
-<!-- excerpt -->
+
 
 Visit the archive → [textilestestimoniales.org](http://www.textilestestimoniales.org/creadores/)

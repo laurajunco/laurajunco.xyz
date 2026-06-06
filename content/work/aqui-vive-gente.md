@@ -1,5 +1,6 @@
 ---
 title: "Aquí vive gente"
+description: "Aquí vive gente is a collective museum project that took its name from an exhibition held by the Brigada Puerta de Tierra in New York. This project brought together four organizations dedicated to defending and reclaiming the territory and their place in it."
 order: 5
 image: "/assets/aqui-vive-gente.gif"
 role: Web development, Interaction Design
@@ -14,6 +15,6 @@ images:
 
 This project brought together four organizations dedicated to defending and reclaiming the territory and their place in it.
 
-<!-- excerpt -->
+
 
 Visit the exhibition → [aquivivegente.espacioodeon.com](https://aquivivegente.espacioodeon.com/)

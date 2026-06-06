@@ -1,5 +1,6 @@
 ---
 title: "Celonis"
+description: "As a Visualization Engineer at Celonis, the leading Process Mining company in the world, I work tackling complex and interesting data visualization problems. Some of them include: maintaining an in-house charting library, creating process and graph visualizations, creating editing tools for data visualization dashboards, accesibility for charts and much more."
 order: 2
 image: "/assets/celonis.jpg"
 role: Front-end development
@@ -21,4 +22,4 @@ As a Visualization Engineer at *[Celonis](https://www.celonis.com/)*, the leadin
 
 Some of them include: maintaining an in-house charting library, creating process and graph visualizations, creating editing tools for data visualization dashboards, accesibility for charts and much more.
 
-<!-- excerpt -->
+

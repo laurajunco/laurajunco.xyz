@@ -1,5 +1,6 @@
 ---
 title: "Caminando la memoria"
+description: "This transmedia map illustrates memory initiatives in Colombia related to the armed conflict. The stories are situated on the map and expanded in a 360º video with community narratives."
 order: 4
 image: "/assets/caminando-la-memoria.jpg"
 role: Graphic Design, Illustration
@@ -13,4 +14,4 @@ This transmedia map illustrates memory initiatives in Colombia related to the ar
 
 Created for the *[Voces para transformar a Colombia](https://museolatertulia.com/voces-para-transformar-a-colombia/)* exhibition at the Colombian Museum of Memory with more than 15,000 visitors.
 
-<!-- excerpt -->
+

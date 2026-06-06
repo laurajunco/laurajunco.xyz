@@ -1,5 +1,6 @@
 ---
 title: "10 years of Data Visualization"
+description: "It's been around 10 years since I first learned about Data Visualization. Since then, I've honed the skills of representing the world's data through pixels on a screen while working on a great variety of disciplines."
 date: 2026-06-04
 ---
 
@@ -9,7 +10,7 @@ It’s been around 10 years since I first learned about Data Visualization. Sinc
 
 When I first started, I would have liked to read the path that led people to find their way to Dataviz, so I'm sharing some of my experiences today, and hope that it is useful or inspiring for someone out there.
 
-<!-- excerpt -->
+
 
 ## Design for Interactive Media 
 

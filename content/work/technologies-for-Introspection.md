@@ -1,5 +1,6 @@
 ---
 title: "Technologies for Introspection"
+description: "Technology extends our bodies and senses on infinite levels. By modifying how we experience the world, they shape our perception of ourselves. Technologies for Introspection asks whether it is possible to turn these extensions of the body back towards the self."
 order: 10
 image: "/assets/technologies-for-Introspection.jpg"
 role: Installation, Interaction Design
@@ -16,6 +17,6 @@ Technology extends our bodies and senses on infinite levels. By modifying how we
 
 *Technologies for Introspection* asks whether it is possible to turn these extensions of the body back towards the self. Can the technologies that push our attention away bring us closer to ourselves?
 
-<!-- excerpt -->
+
 
 Three devices defy the sensory experience of everyday life and propose new ways of perceiving the world through a digitally mediated body.

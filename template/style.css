@@ -16,20 +16,22 @@
   --width-narrow: 600px;
 
   --font-serif: "PT Serif", serif;
-  --line-prose: 1.5;
-  --line-relaxed: 2;
-  --size-description: 1.6em;
-  --size-post: 1.25em;
 
-  --letter-normal: normal;
-  --letter-tight: 1px;
-  --letter-wide: 2px;
-  --letter-title: 2.5px;
+  --line-height-ui: 1.5;
+  --line-height-reading: 2;
+
+  --font-size-work: 1.6em;
+  --font-size-article: 1.25em;
+
+  --letter-spacing-prose: normal;
+  --letter-spacing-compact: 1px;
+  --letter-spacing-ui: 2px;
+  --letter-spacing-site-title: 2.5px;
 }
 
 .prose {
   text-transform: none;
-  letter-spacing: var(--letter-normal);
+  letter-spacing: var(--letter-spacing-prose);
 }
 
 * {
@@ -107,7 +109,7 @@ body {
   margin: 0px auto;
 
   color: var(--black);
-  letter-spacing: var(--letter-wide);
+  letter-spacing: var(--letter-spacing-ui);
 }
 
 a {
@@ -121,13 +123,13 @@ em {
 
 nav > menu > li {
   display: inline-block;
-  line-height: var(--line-prose);
+  line-height: var(--line-height-ui);
 }
 
 h1 {
   text-align: center;
   line-height: 4.8em;
-  letter-spacing: var(--letter-title);
+  letter-spacing: var(--letter-spacing-site-title);
 }
 
 main {
@@ -175,7 +177,7 @@ section.work {
   text-align: center;
   color: var(--black);
   font-style: italic;
-  line-height: var(--line-prose);
+  line-height: var(--line-height-ui);
 }
 
 .project-page {
@@ -186,7 +188,7 @@ section.work {
 .post-page h1,
 .post-page h2 {
   font-family: var(--font-serif);
-  letter-spacing: var(--letter-normal);
+  letter-spacing: var(--letter-spacing-prose);
   text-transform: none;
 }
 
@@ -194,13 +196,13 @@ section.work {
 .project-page .role,
 .project-page .technologies {
   white-space: pre-wrap;
-  line-height: var(--line-prose);
+  line-height: var(--line-height-ui);
   overflow-wrap: break-word;
   word-break: break-word;
 }
 
 .project-page .description {
-  font-size: var(--size-description);
+  font-size: var(--font-size-work);
   font-weight: 400;
   font-style: normal;
 }
@@ -228,9 +230,9 @@ ul.blog-posts li a {
 }
 
 .project-page figcaption {
-  line-height: var(--line-relaxed);
+  line-height: var(--line-height-reading);
   color: var(--subdued);
-  letter-spacing: var(--letter-tight);
+  letter-spacing: var(--letter-spacing-compact);
   font-style: italic;
 }
 
@@ -241,10 +243,10 @@ h2,
 }
 
 h2 {
-  line-height: var(--line-prose);
+  line-height: var(--line-height-ui);
   font-size: 1em;
   text-transform: uppercase;
-  letter-spacing: var(--letter-wide);
+  letter-spacing: var(--letter-spacing-ui);
   color: var(--subdued);
 }
 
@@ -270,16 +272,16 @@ h2 {
 .cv-page p,
 .blog-page li {
   text-transform: none;
-  letter-spacing: var(--letter-tight);
+  letter-spacing: var(--letter-spacing-compact);
 }
 
 .cv-page p {
-  line-height: var(--line-relaxed);
+  line-height: var(--line-height-reading);
 }
 
 /* ---- BLOG ----- */
 .blog-page li {
-  line-height: var(--line-prose);
+  line-height: var(--line-height-ui);
 }
 
 ul.blog-posts li {
@@ -296,8 +298,8 @@ ul.blog-posts li span {
 
 /* --- POST ----- */
 .post-page {
-  font-size: var(--size-post);
-  line-height: var(--line-relaxed);
+  font-size: var(--font-size-article);
+  line-height: var(--line-height-reading);
 }
 
 .post-page a {
@@ -315,7 +317,7 @@ ul.blog-posts li span {
   margin: 0 0 var(--space-flow);
   font-weight: 400;
   font-style: normal;
-  line-height: var(--line-prose);
+  line-height: var(--line-height-ui);
   text-align: left;
 }
 
@@ -323,7 +325,7 @@ ul.blog-posts li span {
   body,
   h2 {
     font-size: 0.8em;
-    letter-spacing: var(--letter-tight);
+    letter-spacing: var(--letter-spacing-compact);
     text-wrap: wrap;
   }
 

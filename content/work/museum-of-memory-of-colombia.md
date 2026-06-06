@@ -1,5 +1,6 @@
 ---
 title: "Museum of Memory of Colombia"
+description: "Website for the Museum of Memory of Colombia, whose objective is to strengthen the collective memory of the events that took place in the recent history of violence in Colombia."
 order: 15
 image: "/assets/museum-of-memory.jpg"
 role: Interface Design, Front-end Development
@@ -12,6 +13,6 @@ images:
 
 Website for the Museum of Memory of Colombia, whose objective is to strengthen the collective memory of the events that took place in the recent history of violence in Colombia.
 
-<!-- excerpt -->
+
 
 Visit the Museum → [museodememoria.gov.co](https://museodememoria.gov.co/)

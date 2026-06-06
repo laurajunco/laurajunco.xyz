@@ -1,5 +1,6 @@
 ---
 title: "ChEMBL"
+description: "ChEMBL is a curated database of bioactive molecules with drug-like properties. Web redesign and reusable data visualizations to help researchers with their computational analyses and communicate their findings clearly and effectively."
 order: 11
 image: "/assets/chembl.gif"
 role: Front-end development, data visualization, UI design,
@@ -13,6 +14,6 @@ images:
 
 Web redesign and reusable data visualizations to help researchers with their computational analyses and communicate their findings clearly and effectively.
 
-<!-- excerpt -->
+
 
 Visit the database → [www.ebi.ac.uk/chembl/](https://www.ebi.ac.uk/chembl/)

@@ -6,11 +6,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="/style.css" />
     <link rel="icon" type="image/png" href="/assets/icon.png" />
-    {% set metaDescription = description | default(site.description) | markdownify | striptags %}
-    <meta name="description" content="{{ metaDescription }}" />
+    <meta name="description" content="{{ description | default(site.description) }}" />
     <title>{{ title | default(site.name) }}</title>
     <meta property="og:title" content="{{ title | default(site.name) }}" />
-    <meta property="og:description" content="{{ metaDescription }}" />
+    <meta property="og:description" content="{{ description | default(site.description) }}" />
     <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
     <meta property="og:type" content="website" />
     <meta property="og:site_name" content="{{ site.name }}" />
