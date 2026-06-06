@@ -310,6 +310,7 @@ ul.blog-posts li span {
   margin: 2em 0 var(--space-flow);
   font-weight: 400;
   color: var(--black);
+  font-size: var(--font-size-article);
 }
 
 .post-page h1 {
