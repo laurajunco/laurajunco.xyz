@@ -23,8 +23,6 @@ form?.addEventListener("submit", async (e) => {
   message.textContent = "";
 
   try {
-    // Google Apps Script does not return CORS headers, so the browser cannot
-    // read the response. no-cors still delivers the POST; we confirm optimistically.
     await fetch(scriptUrl, {
       method: "POST",
       mode: "no-cors",
