@@ -31,6 +31,8 @@ jobs:
         run: npm ci
 
       - name: Build site
+        env:
+          SUBSCRIBE_SCRIPT_URL: ${{ secrets.SUBSCRIBE_SCRIPT_URL }}
         run: npm run build
 
       - name: Setup Pages
