@@ -1,3 +1,5 @@
+require("dotenv").config();
+
 const md = require("./scripts/markdown");
 
 module.exports = function (eleventyConfig) {

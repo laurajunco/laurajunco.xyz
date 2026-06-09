@@ -1,20 +1,40 @@
 ---
 layout: base.njk
 title: Subscribe
+mainClass: post-page prose
 ---
 
-<section class="subscribe-page">
-  <h1>Subscribe to this blog</h1>
+<h1>Subscribe to this blog</h1>
 
-  <form class="subscribe-form" action="#" method="post">
-    <label class="visually-hidden" for="email">Email address</label>
-    <input
-      type="email"
-      id="email"
-      name="email"
-      placeholder="Email address..."
-      required
-    />
-    <button type="submit">Subscribe</button>
-  </form>
-</section>
+<form
+  id="subscribe-form"
+  data-script-url="{{ subscribe.scriptUrl }}"
+  action="#"
+  method="post"
+>
+  <label class="visually-hidden" for="email">Email address</label>
+  <input
+    type="email"
+    id="email"
+    name="email"
+    placeholder="Email address..."
+    required
+  />
+  <input
+    type="text"
+    name="website"
+    class="honeypot"
+    tabindex="-1"
+    autocomplete="off"
+    aria-hidden="true"
+  />
+  <button type="submit">Subscribe</button>
+</form>
+
+<p id="subscribe-message" role="status" aria-live="polite"></p>
+
+<p>
+  I'll email you when I post something new. Your address is stored in a private Google Sheet controlled by me and is not shared with third parties. Still, it's Google (￢_￢). Thanks for keeping up with me!
+</p>
+
+<script src="/assets/subscribe.js"></script>
