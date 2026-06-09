@@ -19,5 +19,6 @@
     <main{% if mainClass %} class="{{ mainClass }}"{% endif %}>
       {{ content | safe }}
     </main>
+    {% include "footer.njk" %}
   </body>
 </html>
