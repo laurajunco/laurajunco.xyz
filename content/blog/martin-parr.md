@@ -1,10 +1,10 @@
 ---
-title: "Martin Parr - Short & Sweet"
+title: "Martin Parr — Short & Sweet"
 description: "The first time I saw Martin Parr’s work was in Bogotá in 2019. I was fresh out of university and found his work so fun! I remembered mostly the colors, the quantity of his work and the satirical view of tourism."
 date: 2026-07-16
 ---
 
-# Martin Parr - Short & Sweet
+# Martin Parr — Short & Sweet
 
 The first time I saw Martin Parr’s work was in Bogotá in 2019. I was fresh out of university and found his work so fun! I remembered mostly the colors, the quantity of his work, and the satirical view of tourism.
 
