@@ -326,6 +326,28 @@ ul.blog-posts li span {
   text-align: left;
 }
 
+.post-page ul {
+  list-style: disc;
+  padding-left: 1.5em;
+  margin-bottom: var(--space-paragraph);
+}
+
+.post-page ol {
+  list-style: decimal;
+  padding-left: 1.5em;
+  margin-bottom: var(--space-paragraph);
+}
+
+.post-page li {
+  margin-bottom: var(--space-flow);
+  text-transform: none;
+  letter-spacing: var(--letter-spacing-prose);
+}
+
+.post-page li:last-child {
+  margin-bottom: 0;
+}
+
 .post-page form {
   margin-bottom: var(--space-paragraph);
 }
