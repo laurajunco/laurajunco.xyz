@@ -10,7 +10,7 @@ This means that apart from language courses and your corporate workshop here and
 
 The course I will take is [Zine Making for the Web](https://sfpc.study/sessions/fall-26/zine-making-for-the-web). It seemed like the perfect fit for me because I have been making fanzines since I was 12 years old.
 
-I started with simple 1-page foldable collections of drawings that I would give around to my school friends and neighbors. Then, in college, I was part of a small independent publishing collective that moved around the comic, DIY, self-publishing scene in Bogotá, Colombia. My best memories are of creating with my friends Nandy and Fabian and then exchanging publications with others at concerts and fairs.
+I started with simple 1-page foldable collections of drawings that I would give around to my school friends and neighbors. Then, in college, I was part of a small independent publishing collective that moved around the comic, DIY, self-publishing scene in Bogotá, Colombia. My best memories are of creating with my friends [Nandy](https://www.behance.net/Navapale) and [Fabian](https://trashypero.cool/) and then exchanging publications with others at concerts and fairs.
 
 Since the beginning, what has drawn me to this medium is the lack of permissions needed. Other types of publishing are associated with an institution backing up the idea that what you are publishing is worth being read in the world. But zine-making is a reminder that we are free to create and share with others.
 
