@@ -3,7 +3,7 @@
 
 ## Current
 
-[Celonis](https://www.celonis.com/), Senior Visualization Engineer
+[Celonis](https://www.celonis.com/), Senior Software Engineer
 
 ## Previous
 
