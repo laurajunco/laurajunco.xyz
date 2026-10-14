@@ -4,6 +4,8 @@ description: "I'm joining my first course at The School for Poetic Computation."
 date: 2026-09-20
 ---
 
+# Going back to school
+
 I graduated from college almost 8 years ago. Since then, I’ve mostly followed the philosophy of learning by doing and using my job and projects as opportunities to learn and grow.
 
 This means that apart from language courses and your corporate workshop here and there, I haven't joined any form of organized learning. In a recent effort to invest more in my education and creativity, I will take my first course at SFPC ([The School for Poetic Computation](https://sfpc.study/)) this fall. I’ve been tinkering with the idea of attending SFPC since my college days, when I discovered the world of creative computation.
