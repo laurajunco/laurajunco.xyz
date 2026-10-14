@@ -8,9 +8,9 @@ date: 2026-10-14
 
 I watched 80+ movies in the last 3 years.
 
-I moved to a new city and country a couple of years ago, in need of a hobby, a regular activity, and a way to keep culturally active. I’ve watched almost 1 movie a week for the last 4 years. I have a MUBI GO subscription, where I get a ticket for a new hand-picked movie every week, which makes the selection process very easy.
+I moved to a new city and country a couple of years ago, in need of a hobby, a regular activity, and a way to keep culturally active. I’ve watched almost 1 movie a week since then. I have a MUBI GO subscription, where I get a ticket for a new hand-picked movie every week, which makes the selection process very easy.
 
-I have always had different ideas on what to make with it, because of course a hobby cannot just be a hobby it needs to be turned into a project, something to show, to get praise for. Should I create a movie blog? A YouTube channel? Or a custom data visualization of all these movies?
+I have always had different ideas on what to make with it, because of course, a hobby cannot just be a hobby; it needs to be turned into a project, something to show, to get praise for. Should I create a movie blog? A YouTube channel? Or a custom data visualization of all these movies?
 
 Currently I don’t have the energy or desire to go into these endeavours, so for now I will settle for publishing the list here.
 
